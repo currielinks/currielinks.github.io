@@ -1,0 +1,61 @@
+button{
+	border-radius: 5px;
+	border-width: 1px;
+	border-color: white;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	width: 250px;
+	height: 50px;
+}
+
+#egg{
+	background-color: white;
+	color: white;
+	width: 1px;
+	height: 1px;
+}
+
+#dark{
+	background-color: #2e2e2e;
+	width: 170px;
+	height: 25px;
+}
+
+#insta{
+	background-image: url("back.jpg");
+}
+
+#face{
+	background-color: #4267B2;
+	border-color: #4267B2;
+}
+
+#snap{
+	background-color: #FFFC00;
+	border-color: #FFFC00;
+}
+
+#git{
+	background-color: Black;
+	border-color: Black;
+}
+
+#tube{
+	background-color: #FF0000;
+	border-color: #FF0000;
+}
+
+h1{
+	font-family: 'Open Sans', sans-serif;
+	width: 300px;
+}
+
+h3{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h6{
+	position: absolute;
+	left: 5px;
+	bottom: 5px;
+}
