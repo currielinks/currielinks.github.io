@@ -8,6 +8,11 @@ button{
 	height: 50px;
 }
 
+#tweet{
+	background-color: #26a7de;
+	border-color: #26a7de;
+}
+
 #egg{
 	background-color: white;
 	color: white;
